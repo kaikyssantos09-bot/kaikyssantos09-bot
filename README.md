@@ -53,24 +53,3 @@ Estudante de Engenharia de Software na UNICID. Atualmente atuo como Supervisor d
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake.svg">
 </picture>
-
-## Estatísticas e Métricas
-
-<div align="center">
-
-  <!-- Estatísticas Gerais em Português -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaikyssantos09-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&locale=pt-br"/>
-  
-  <!-- Linguagens Mais Usadas em Português -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikyssantos09-bot&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&locale=pt-br"/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Sequência de Atividade (Streak Stats) em Português -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaikyssantos09-bot&theme=tokyonight&border_radius=10&locale=pt" alt="Streak Stats" />
-
-</div>
