@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá! Seja bem-vindo(a) ao meu perfil
+# Seja bem-vindo(a) ao meu perfil
 
 Estudante de Engenharia de Software na UNICID. Atualmente atuo como Supervisor de Marketing e Publicidade. Possuo conhecimentos em Python, análise de dados, modelagem de processos em BPMN, SQL e Engenharia de Prompt. Busco unir a visão estratégica de negócios e comunicação ao desenvolvimento tecnológico para criar soluções eficientes.
 
