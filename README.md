@@ -18,9 +18,9 @@ Estudante de Engenharia de Software na UNICID. Atualmente atuo como Supervisor d
 
 ## Sobre mim
 
-* 🎓 Cursando Engenharia de Software na UNICID
-* 💼 Supervisor de Marketing e Publicidade
-* 🚀 Focado em Python, Análise de Dados e Inteligência Artificial
+* Cursando Engenharia de Software na UNICID
+* Supervisor de Marketing e Publicidade
+* Focado em Python, Análise de Dados e Inteligência Artificial
 
 ## Linguagens utilizadas
 
@@ -35,20 +35,42 @@ Estudante de Engenharia de Software na UNICID. Atualmente atuo como Supervisor d
 ## Rede social
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kaiky-dos-santos-b52680340" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/kaiky-dos-santos-b52680340" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="52" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/Kaiky.santos._" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="52" alt="instagram logo" />
+  <a href="https://www.instagram.com/Kaiky.santos._" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="52" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="mailto:kaikyssantos09@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="52" alt="gmail logo" />
+  <a href="mailto:kaikyssantos09@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="52" alt="Enviar e-mail para kaikyssantos09@gmail.com" />
   </a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Estatísticas e Métricas
+
+<div align="center">
+
+  <!-- Estatísticas Gerais em Português -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaikyssantos09-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&locale=pt-br"/>
+  
+  <!-- Linguagens Mais Usadas em Português -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikyssantos09-bot&layout=compact&theme=tokyonight&border_radius=10&hide=html,css&locale=pt-br"/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- Sequência de Atividade (Streak Stats) em Português -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaikyssantos09-bot&theme=tokyonight&border_radius=10&locale=pt" alt="Streak Stats" />
+
+</div>
