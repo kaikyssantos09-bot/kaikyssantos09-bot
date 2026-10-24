@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 📌 Sobre Mim
 
-Sou estudante de **Engenharia de Software** na UNICID e atuo profissionalmente como **Supervisor de Marketing e Publicidade**. Unindo a visão estratégica de mercado, gestão e comunicação ao desenvolvimento tecnológico, foco na criação de soluções eficientes, automação de processos, análise de dados e implementação de Inteligência Artificial.
+Sou estudante de **Engenharia de Software** e atuo profissionalmente como **Supervisor de Marketing e Publicidade**. Unindo a visão estratégica de mercado, gestão e comunicação ao desenvolvimento tecnológico, foco na criação de soluções eficientes, automação de processos, análise de dados e implementação de Inteligência Artificial.
 
 - 💼 **Cargo Atual:** Supervisor de Marketing e Publicidade
 - 🎓 **Formação:** Cursando Engenharia de Software na UNICID
@@ -65,16 +65,34 @@ Sou estudante de **Engenharia de Software** na UNICID e atuo profissionalmente c
 
 ---
 
-## 🐍 Minhas Contribuições
+## 🐍 Minhas Contribuições (Gráfico Animado da Cobrinha)
 
 <div align="center">
 
+  <!-- Animação do Gráfico de Contribuições (Snake Eating Contributions) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Kaikyssantos09-bot/Kaikyssantos09-bot/output/github-contribution-grid-snake.svg">
   </picture>
 
+</div>
+
+---
+
+## 📊 Estatísticas e Métricas
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaikyssantos09-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikyssantos09-bot&layout=compact&theme=tokyonight&border_radius=10&hide=html,css"/>
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaikyssantos09-bot&theme=tokyonight&border_radius=10" alt="Streak Stats" />
 </div>
 
 ---
